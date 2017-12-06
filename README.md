@@ -14,7 +14,7 @@ Progressive Web Apps (PWA) are the next big thing in web development as they bri
 * The Washington Post
 * Financial Times
 * Flipboard
-* Flip Cart Lite
+* Flip Cart Lite (63% of flip cart lite users reach the site via 2G networks) 
 
 Todo
 =====
