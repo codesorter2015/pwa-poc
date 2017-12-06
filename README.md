@@ -10,9 +10,11 @@ You can deploy your app as a PWA as well as Native app and take advantage of bot
 Progressive Web Apps (PWA) are the next big thing in web development as they bring mobile-app-like experiences to your users without requiring them to install an app from the app store/ play store.
 
 # Adopted companies are listed below
-* Twitter
+* Twitter Lite
 * The Washington Post
-* Financial Times 
+* Financial Times
+* Flipboard
+* Flip Cart Lite
 
 Todo
 =====
